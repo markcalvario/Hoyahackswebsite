@@ -1,7 +1,9 @@
 h1{
 	color: blue;
 }
-
+.pantone292background{
+	background-color:#62A8E5;
+}
 /* Sticky Bar Navigation start */
 #navbar {
   overflow: hidden;
